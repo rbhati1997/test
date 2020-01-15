@@ -14,3 +14,4 @@ while guess != to_be_guessed:
         break
 else:
     print("Congratulation. You made it!")
+    print("Congratulation. You made it!")
